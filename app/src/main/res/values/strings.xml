@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Aadhar QR Scanner</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">QR detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Aadhar QR Scanner</string>
+    <string name="barcode_header">Aadhar QR Scanner</string>
+    <string name="read_barcode">Scan QR</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Flash</string>
+    <string name="barcode_success">Aadhar  QR read successfully</string>
+    <string name="barcode_failure">No QR captured</string>
+    <string name="barcode_error">"Error reading QR: %1$s"</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_google_maps">Google Maps</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
